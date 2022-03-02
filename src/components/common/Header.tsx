@@ -1,5 +1,6 @@
 import { Button, Flex, Spacer, Text } from "@chakra-ui/react";
 import Link from "next/link";
+import Login from "./Login";
 
 const Header = () => {
   return (
@@ -21,7 +22,7 @@ const Header = () => {
       </Flex>
       <Spacer />
       <Flex alignItems="center">
-        <Button onClick={() => {}}>Login</Button>
+        <Login />
       </Flex>
     </Flex>
   );

@@ -3,6 +3,7 @@
 - Supabase
   - Login with Magic Link
 - Chakra UI
+- AuthProvider
 
 ## Getting Started
 
